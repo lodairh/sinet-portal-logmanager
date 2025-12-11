@@ -1,0 +1,1 @@
+# sinet-portal-logmanager
