@@ -1,0 +1,2 @@
+create table portalreport_detail (date TEXT, time TEXT, accesspage TEXT, userid TEXT, ipaddress TEXT);
+create table portalreport (date TEXT, user INT, OTPsend INT, OTPnouser INT, top INT, login_sessions INT, physical INT, services INT, account INT, org INT, application INT, links INT, adm_users INT, adm_gakunin INT, adm_editor INT);
