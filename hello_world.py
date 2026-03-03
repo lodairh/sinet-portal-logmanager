@@ -1,0 +1,1 @@
+print("Hello world と表示する")
